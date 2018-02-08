@@ -9,4 +9,6 @@ def key_for_min_value(hash)
       key
     else
       key
+    end
+  end  
 end  
