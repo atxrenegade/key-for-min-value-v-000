@@ -3,6 +3,6 @@
 
 def key_for_min_value(hash)
   min_val = nil 
-  hash.keys do 
+  hash.each 
   
 end  
